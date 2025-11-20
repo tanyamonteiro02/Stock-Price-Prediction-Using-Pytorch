@@ -101,32 +101,8 @@ Graphs produced:
 * Training predictions vs. actual prices
 * Test predictions vs. actual prices
 
----
-
-## 📄 File Structure
-
-```
-.
-├── AMZN.csv
-├── Stock Price Prediction using Pytorch.pdf
-├── README.md
-└── Notebook or Python script
-```
-
----
-
 ## ⚠️ Notes
 
 * The model predicts **one day ahead** only.
 * Only closing prices are used—adding technical indicators may improve performance.
 * Predictions are for educational purposes only and not financial advice.
-
----
-
-## 📜 License
-
-This project is released under the MIT License.
-
----
-
-Let me know if you want this README auto-generated into a file (PDF, DOCX, Markdown file, etc.).
