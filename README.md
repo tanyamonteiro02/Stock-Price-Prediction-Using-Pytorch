@@ -1,9 +1,3 @@
-# Stock-Price-Prediction-Using-Pytorch
-
-Here is your **ready-to-paste README.md**, with proper Markdown formatting only — no extra explanations.
-
----
-
 # Stock Price Prediction Using PyTorch
 
 This project demonstrates how to build, train, and evaluate an LSTM-based neural network to predict Amazon (AMZN) stock closing prices using historical data. The workflow includes data preprocessing, time-series feature engineering, model training, and visualization of predictions.
